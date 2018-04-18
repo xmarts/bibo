@@ -75,6 +75,7 @@
                     <field name="name"/>
                     <field name="date_start"/>
                     <field name="date_finish"/>
+                    <field name="piezass" />
                     <field name="subtotal"/>
 
                 </tree>
