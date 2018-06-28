@@ -4,7 +4,7 @@
     'summary': 'Personalizacion de bibo',
     'description': 'Modificacion de la orden de compra, factura,pedido de venta',
     'category': 'Personalizaicion',
-    'author': 'Raul Ovalle, Nayeli Valencia Díaz',
+    'author': 'Raul Ovalle, Nayeli Valencia Díaz, Pablo Osorio',
     'website': 'www.xmarts.com',
     'depends': [
         'purchase',
